@@ -1,7 +1,7 @@
 ### Hi there, I'm Rajkumar Samra - aka [rjsamra](https://rajkumarsamra.blogspot.com/) 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rajkumarsamra.blogspot.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/rajkumarsamra)
 
 ## I'm a Engineer, Developer, Student, and Entrepreneur!!
 
@@ -45,39 +45,10 @@
 ---
 
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+ <img align="left" alt="rjsamra's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rjsamra&show_icons=true&hide_border=true&color=purple&theme=tokyonight" />
   
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-2. 🎉 Merged PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. 💪 Opened PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-<!--END_SECTION:activity-->
+  <img align="left" alt="jsamra's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjsamra&layout=compact&theme=tokyonight&card_width=445" />
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
