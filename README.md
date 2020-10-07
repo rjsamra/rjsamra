@@ -1,7 +1,7 @@
 ### Hi there, I'm Rajkumar Samra - aka [rjsamra](https://rajkumarsamra.blogspot.com/) 👋
 
-[![Website](https://img.shields.io/website?label=Rajkumar Samra Blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rajkumarsamra.blogspot.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Rajkumar Samra Twitter?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/rajkumarsamra)
+[![Website](https://img.shields.io/website?label=Rajkumar-Samra-Blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rajkumarsamra.blogspot.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Rajkumar-Samra-Twitter?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/rajkumarsamra)
 
 ## I'm a Engineer, Developer, Student, and Entrepreneur!!
 
