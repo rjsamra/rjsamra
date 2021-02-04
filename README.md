@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://github.com/rjsamra/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1#version3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rjsamra#version3"/>
   </a>
 </p>
 
