@@ -30,7 +30,7 @@
 
 ## 📈 Github Stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github.com/rjsamra/github-readme-stats -->
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
